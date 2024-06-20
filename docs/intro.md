@@ -3,7 +3,7 @@ sidebar_position: 1
 slug: /
 ---
 
-# Normativas Agatucraft
+# Normativas Agatsucraft
 
 ¡Bienvenidos a nuestro Servidor Agatsucraft ! Nuestro objetivo es proporcionar una experiencia agradable y justa para todos los jugadores. Por favor, Lee todas nuestras Normas de Uso y las Políticas de Seguridad antes de comenzar a jugar.
 
